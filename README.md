@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nick-revio
-- 👀 I’m interested in ... web development and sql server
-- 🌱 I’m currently learning ... React and Rust
-- 💞️ I’m looking to collaborate on ... anything I guess
+- 👀 I’m interested in ... microservices, rest api, and event-driven architecture
+- 🌱 I’m currently learning ... php & Laravel
+- 💞️ I’m looking to collaborate on ... rev.io work
 - 📫 How to reach me ... nick.trefz@rev.io
 
 <!---
